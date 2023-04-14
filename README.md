@@ -55,7 +55,7 @@ https://certification.afnor.org/developpement-durable-rse/label-engage-rse
 ### Le cloud est-il vraiment efficient ?
 https://boavizta.org/blog/les-reductions-d-emissions-de-co2-promises-par-les-cloud-providers-sont-elles-realistes
 
-### Impact créatuib d'un serveur
+### Impact création d'un serveur
 https://boavizta.org/blog/empreinte-de-la-fabrication-d-un-serveur
 
 ### Langages les plus performants
@@ -99,7 +99,7 @@ https://agence-lucie.com/formation/enjeux-bonnes-pratiques-numerique-responsable
 https://luiscruz.github.io/course_sustainableSE/2022/
 
 
-### Quelles pratiques Green IT pour quel métier ?
+### Des pratique Green IT pour chaque métier ?
 https://ecolog.isit-europe.org/
 https://ecolog.isit-europe.org/metiers-numerique
 https://ecolog.isit-europe.org/metiers-numerique/concepteur-developpeur
