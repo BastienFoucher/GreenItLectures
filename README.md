@@ -1,5 +1,5 @@
 # GreenItLectures
-Some interesting Green IT lectures
+Some interesting Green IT lectures (in french)
 
 ## Généralités
 ### L'effet rebond
@@ -31,19 +31,15 @@ https://label-nr.fr
 https://www.academie-nr.org/#mooc-nr
 
 ## Associations
-### Associations
+https://www.boavizta.org
 https://alliancegreenit.org/
 https://www.planet-techcare.green/
 https://www.point-de-mir.com/
-### Accompagnements administratifs
-https://www.arapl.org/
+https://institutnr.org/
 
 ## Vidéos, Podcasts
 
-### Urbanisation des SI
-https://www.youtube.com/watch?v=mB-duXfKRvI
 ### L'octet vert
-
 https://standblog.org/blog/post/2021/02/26/Je-lance-un-podcast-l-Octet-Vert
 
 ### Enjeux du Green IT
@@ -59,8 +55,14 @@ https://certification.afnor.org/developpement-durable-rse/label-engage-rse
 ### Le cloud est-il vraiment efficient ?
 https://boavizta.org/blog/les-reductions-d-emissions-de-co2-promises-par-les-cloud-providers-sont-elles-realistes
 
+### Impact créatuib d'un serveur
+https://boavizta.org/blog/empreinte-de-la-fabrication-d-un-serveur
+
 ### Langages les plus performants
 https://rust.developpez.com/actu/329132/Rust-peut-il-sauver-la-planete-Un-composant-JavaScript-a-ete-reecrit-en-Rust-et-aurait-une-amelioration-de-50-pourcent-de-la-latence-une-reduction-de-75-pourcent-de-l-utilisation-du-CPU-et-95-pourcent-de-la-memoire/
+
+### How to build a low tech website ?
+https://solar.lowtechmagazine.com/fr/2018/09/how-to-build-a-lowtech-website.html
 
 ### Les fournisseurs cloud doivent publier des données. + liens intéressants sur des chiffres en bas
 https://www.itforbusiness.fr/pfue-a-quand-un-bilan-environnemental-du-cloud-a-lechelle-europeenne-45374
@@ -71,7 +73,7 @@ https://www.itforbusiness.fr/green-it-une-source-deconomies-et-dinnovation-38258
 ## Expérimentation par Octo
 https://publication.octo.com/fr/toolkit-numerique-environnement
 
-## Impact www.lemonde.fr : 70 arbres.
+## Impact www.lemonde.fr : 70 arbres
 https://marmelab.com/blog/2022/01/27/greenframe-lemonde-reduction-impact-carbone.html
 
 ## Bilan carbone
@@ -93,7 +95,7 @@ https://www.bilans-ges.ademe.fr/forum/viewtopic.php?f=14&t=4158&hilit=formation&
 https://agence-lucie.com/formation/bilan-carbone/
 https://agence-lucie.com/formation/enjeux-bonnes-pratiques-numerique-responsable/
 
-### Un cours qui intègre des dimensions intéressantes :
+### Un cours qui intègre des dimensions intéressantes
 https://luiscruz.github.io/course_sustainableSE/2022/
 
 
