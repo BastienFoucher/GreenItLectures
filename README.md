@@ -8,6 +8,9 @@ https://ecoinfo.cnrs.fr/2015/12/23/les-effets-rebond-du-numerique/
 ### Les différents types d'énergies
 https://www.compteco2.com/article/energies-primaire-secondaire-finale-utile/
 
+### Plus d'efficacité ou réduction des usages ?
+https://www.lemonde.fr/sciences/article/2023/05/01/la-recherche-au-defi-de-la-sobriete-energetique-du-numerique_6171677_1650684.html
+
 ## Best practices
 
 ### Github collectif numerique responsable :
